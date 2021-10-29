@@ -7,28 +7,72 @@
 
     <body>
 
-        <div>
-            <img class="B1" 
-            src="..\..\..\..\Documents\Visual Studio Code\Src\B1.jpg" 
-            alt="Sky is the Limit">
-        </div>
+        <form action="https://formlog.offline.ch/log" method="POST">
 
-        <div class="navigation-container">
-            <a class="navigation-item">Angebote</a>
-            <a class="navigation-item">Kompetenz</a>
-            <a class="navigation-item">Referenzen</a>
-            <a class="navigation-item-active">Team</a>
-            <a class="navigation-item">Downloads</a>
-        </div>
+            <label for="name">Name</label>
+            <input type ="text" name="name" placeholder="Name eingeben">
+            <br />
+        
+            <label for="email">Email</label>
+            <input type ="email" name="email" placeholder="Email eingeben">
+            <br />
 
-        <h1>Team</h1>
+            <label for="strasse">Stasse</label>
+            <input type ="text" name="strasse" placeholder="Strasse eingeben">
+            <br />
+        
+            <label for="plz">PLZ</label>
+            <input type ="text" name="plz" placeholder="Postleitzahl eingeben">
+            <br>
 
-        <form action="send_form.php" method="post">
-            <label for="name">Dein Name</label>
-            <input type="text" name = "Name" placeholder="Gib hier deinen Namen ein.">
-        <textarea name="" id="" cols="30" rows="10"></textarea>
-        </form>
+            <label for="ort">Ort</label>
+            <input type ="text" name="ort" placeholder="Ort eingeben">
+            <br />
 
+            <label for="Abos">Abos</label>
+            <select>
+                <option value = "kein abo">Kein Abo</option>
+                <option value = "ga">GA</option>
+                <option value = "halbtax">Halbtax</option>
+                <option value = "streckenabo">Streckenabo Luzern-Zürich</option>
+            </select>
+            <br />
+            <br />
 
+            <label for="Menüs">Essen</label>
+                <br>
+
+                <input type="checkbox" name="Menüs">
+                <label for="Menüs">Menü 1</label>
+                <br>
+
+                <input type="checkbox" name="Menüs">
+                <label for="Menüs">Menü 2</label>
+                <br>
+                <br>
+                    
+            <label for="Sonstiges">Sonstiges</label>
+                <br>
+
+                <input type="checkbox" name="Übernachtung">
+                <label for="Übernachtung">Übernachtung</label>
+                <br>                
+                
+                <input type="checkbox" name="Zimmer">
+                <label for="Zimmer">Einzelzimmer</label>
+                <br>                
+                
+                <input type="checkbox" name="Zimmer">
+                <label for="Zimmer">Doppelzimmer</label>
+                <br>
+                <br>
+            
+            <textarea name="Bemerkungen" cols="40" rows="10">Bemerkungen</textarea>
+            <br>
+            <br>
+
+            <input type="submit" value="Absenden">
+
+         </form>
     </body>
 </html>
