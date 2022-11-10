@@ -1,0 +1,10 @@
+C:\Users\vmadmin\source\repos\M404 B3 Personen-Applikation\bin\Debug\M404 B3 Personen-Applikation.exe.config
+C:\Users\vmadmin\source\repos\M404 B3 Personen-Applikation\bin\Debug\M404 B3 Personen-Applikation.exe
+C:\Users\vmadmin\source\repos\M404 B3 Personen-Applikation\bin\Debug\M404 B3 Personen-Applikation.pdb
+C:\Users\vmadmin\source\repos\M404 B3 Personen-Applikation\obj\Debug\M404 B3 Personen-Applikation.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\M404 B3 Personen-Applikation\obj\Debug\M404_B3_Personen_Applikation.Form1.resources
+C:\Users\vmadmin\source\repos\M404 B3 Personen-Applikation\obj\Debug\M404_B3_Personen_Applikation.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\M404 B3 Personen-Applikation\obj\Debug\M404 B3 Personen-Applikation.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\M404 B3 Personen-Applikation\obj\Debug\M404 B3 Personen-Applikation.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\M404 B3 Personen-Applikation\obj\Debug\M404 B3 Personen-Applikation.exe
+C:\Users\vmadmin\source\repos\M404 B3 Personen-Applikation\obj\Debug\M404 B3 Personen-Applikation.pdb

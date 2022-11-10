@@ -1,0 +1,13 @@
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\bin\Debug\netcoreapp3.1\IPT2_B02.2 Array vertiefung.exe
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\bin\Debug\netcoreapp3.1\IPT2_B02.2 Array vertiefung.deps.json
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\bin\Debug\netcoreapp3.1\IPT2_B02.2 Array vertiefung.runtimeconfig.json
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\bin\Debug\netcoreapp3.1\IPT2_B02.2 Array vertiefung.runtimeconfig.dev.json
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\bin\Debug\netcoreapp3.1\IPT2_B02.2 Array vertiefung.dll
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\bin\Debug\netcoreapp3.1\IPT2_B02.2 Array vertiefung.pdb
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\obj\Debug\netcoreapp3.1\IPT2_B02.2 Array vertiefung.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\obj\Debug\netcoreapp3.1\IPT2_B02.2 Array vertiefung.AssemblyInfoInputs.cache
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\obj\Debug\netcoreapp3.1\IPT2_B02.2 Array vertiefung.AssemblyInfo.cs
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\obj\Debug\netcoreapp3.1\IPT2_B02.2 Array vertiefung.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\obj\Debug\netcoreapp3.1\IPT2_B02.2 Array vertiefung.dll
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\obj\Debug\netcoreapp3.1\IPT2_B02.2 Array vertiefung.pdb
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\obj\Debug\netcoreapp3.1\IPT2_B02.2 Array vertiefung.genruntimeconfig.cache

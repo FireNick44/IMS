@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M404 B04", "M404 B04.csproj", "{7E1C16D6-C704-4ED1-9F36-434F226BB940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extra Error bekämpfen", "..\Extra Error bekämpfen\Extra Error bekämpfen.csproj", "{8228D015-672D-4E83-BD4D-B8A80647F585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E1C16D6-C704-4ED1-9F36-434F226BB940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1C16D6-C704-4ED1-9F36-434F226BB940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1C16D6-C704-4ED1-9F36-434F226BB940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1C16D6-C704-4ED1-9F36-434F226BB940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8228D015-672D-4E83-BD4D-B8A80647F585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8228D015-672D-4E83-BD4D-B8A80647F585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8228D015-672D-4E83-BD4D-B8A80647F585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8228D015-672D-4E83-BD4D-B8A80647F585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEA22F3C-8B87-4112-815C-036ED82B4D68}
+	EndGlobalSection
+EndGlobal

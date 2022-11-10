@@ -1,0 +1,10 @@
+C:\Users\vmadmin\source\repos\2. jahr\M226\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\bin\Debug\PersonenAppV2.exe.config
+C:\Users\vmadmin\source\repos\2. jahr\M226\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\bin\Debug\PersonenAppV2.exe
+C:\Users\vmadmin\source\repos\2. jahr\M226\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\bin\Debug\PersonenAppV2.pdb
+C:\Users\vmadmin\source\repos\2. jahr\M226\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.csproj.AssemblyReference.cache
+C:\Users\vmadmin\source\repos\2. jahr\M226\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.frmHaupt.resources
+C:\Users\vmadmin\source\repos\2. jahr\M226\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\2. jahr\M226\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\2. jahr\M226\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\2. jahr\M226\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.exe
+C:\Users\vmadmin\source\repos\2. jahr\M226\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.pdb

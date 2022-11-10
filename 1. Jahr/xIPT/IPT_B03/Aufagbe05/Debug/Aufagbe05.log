@@ -1,0 +1,6 @@
+﻿  Quelle.cpp
+C:\Users\vmadmin\source\repos\IPT_B03\Aufagbe05\Quelle.cpp(15,45): error C2100: Ungültige Dereferenzierung.
+C:\Users\vmadmin\source\repos\IPT_B03\Aufagbe05\Quelle.cpp(16,16): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\vmadmin\source\repos\IPT_B03\Aufagbe05\Quelle.cpp(19,10): warning C4473: "printf": nicht genügend Argumente für Formatzeichenfolge übergeben
+C:\Users\vmadmin\source\repos\IPT_B03\Aufagbe05\Quelle.cpp(19,10): message : Platzhalter und deren Parameter erwarten 1 variadic-Argumente, es wurden aber 0 variadic-Argumente bereitgestellt.
+C:\Users\vmadmin\source\repos\IPT_B03\Aufagbe05\Quelle.cpp(19,10): message : Das fehlende variadic-Argument "1" ist für die Zeichenfolge "%d" erforderlich.

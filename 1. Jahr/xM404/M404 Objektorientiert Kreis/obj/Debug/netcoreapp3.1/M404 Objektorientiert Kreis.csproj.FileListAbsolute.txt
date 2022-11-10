@@ -1,0 +1,13 @@
+C:\Users\vmadmin\source\repos\M404 Objektorientiert Kreis\bin\Debug\netcoreapp3.1\M404 Objektorientiert Kreis.exe
+C:\Users\vmadmin\source\repos\M404 Objektorientiert Kreis\bin\Debug\netcoreapp3.1\M404 Objektorientiert Kreis.deps.json
+C:\Users\vmadmin\source\repos\M404 Objektorientiert Kreis\bin\Debug\netcoreapp3.1\M404 Objektorientiert Kreis.runtimeconfig.json
+C:\Users\vmadmin\source\repos\M404 Objektorientiert Kreis\bin\Debug\netcoreapp3.1\M404 Objektorientiert Kreis.runtimeconfig.dev.json
+C:\Users\vmadmin\source\repos\M404 Objektorientiert Kreis\bin\Debug\netcoreapp3.1\M404 Objektorientiert Kreis.dll
+C:\Users\vmadmin\source\repos\M404 Objektorientiert Kreis\bin\Debug\netcoreapp3.1\M404 Objektorientiert Kreis.pdb
+C:\Users\vmadmin\source\repos\M404 Objektorientiert Kreis\obj\Debug\netcoreapp3.1\M404 Objektorientiert Kreis.AssemblyInfoInputs.cache
+C:\Users\vmadmin\source\repos\M404 Objektorientiert Kreis\obj\Debug\netcoreapp3.1\M404 Objektorientiert Kreis.AssemblyInfo.cs
+C:\Users\vmadmin\source\repos\M404 Objektorientiert Kreis\obj\Debug\netcoreapp3.1\M404 Objektorientiert Kreis.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\M404 Objektorientiert Kreis\obj\Debug\netcoreapp3.1\M404 Objektorientiert Kreis.dll
+C:\Users\vmadmin\source\repos\M404 Objektorientiert Kreis\obj\Debug\netcoreapp3.1\M404 Objektorientiert Kreis.pdb
+C:\Users\vmadmin\source\repos\M404 Objektorientiert Kreis\obj\Debug\netcoreapp3.1\M404 Objektorientiert Kreis.genruntimeconfig.cache
+C:\Users\vmadmin\source\repos\M404 Objektorientiert Kreis\obj\Debug\netcoreapp3.1\M404 Objektorientiert Kreis.csproj.AssemblyReference.cache

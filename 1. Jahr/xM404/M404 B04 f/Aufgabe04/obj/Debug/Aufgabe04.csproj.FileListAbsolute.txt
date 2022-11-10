@@ -1,0 +1,10 @@
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe04\bin\Debug\Aufgabe04.exe.config
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe04\bin\Debug\Aufgabe04.exe
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe04\bin\Debug\Aufgabe04.pdb
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe04\obj\Debug\Aufgabe04.Erweiterung.resources
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe04\obj\Debug\Aufgabe04.Properties.Resources.resources
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe04\obj\Debug\Aufgabe04.csproj.GenerateResource.cache
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe04\obj\Debug\Aufgabe04.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe04\obj\Debug\Aufgabe04.exe
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe04\obj\Debug\Aufgabe04.pdb
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe04\obj\Debug\Aufgabe04.csprojAssemblyReference.cache

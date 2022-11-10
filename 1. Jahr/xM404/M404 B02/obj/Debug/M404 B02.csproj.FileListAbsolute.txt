@@ -1,0 +1,10 @@
+C:\Users\vmadmin\source\repos\M404 B02\obj\Debug\M404 B02.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\M404 B02\obj\Debug\M404_B02.Beispiel1.resources
+C:\Users\vmadmin\source\repos\M404 B02\obj\Debug\M404_B02.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\M404 B02\obj\Debug\M404 B02.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\M404 B02\obj\Debug\M404 B02.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\M404 B02\bin\Debug\M404 B02.exe.config
+C:\Users\vmadmin\source\repos\M404 B02\bin\Debug\M404 B02.exe
+C:\Users\vmadmin\source\repos\M404 B02\bin\Debug\M404 B02.pdb
+C:\Users\vmadmin\source\repos\M404 B02\obj\Debug\M404 B02.exe
+C:\Users\vmadmin\source\repos\M404 B02\obj\Debug\M404 B02.pdb

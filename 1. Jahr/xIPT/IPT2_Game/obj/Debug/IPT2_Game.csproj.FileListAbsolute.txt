@@ -1,0 +1,10 @@
+C:\Users\vmadmin\source\repos\IPT2_Game\bin\Debug\IPT2_Game.exe.config
+C:\Users\vmadmin\source\repos\IPT2_Game\bin\Debug\IPT2_Game.exe
+C:\Users\vmadmin\source\repos\IPT2_Game\bin\Debug\IPT2_Game.pdb
+C:\Users\vmadmin\source\repos\IPT2_Game\obj\Debug\IPT2_Game.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\IPT2_Game\obj\Debug\IPT2_Game.Form1.resources
+C:\Users\vmadmin\source\repos\IPT2_Game\obj\Debug\IPT2_Game.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\IPT2_Game\obj\Debug\IPT2_Game.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\IPT2_Game\obj\Debug\IPT2_Game.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\IPT2_Game\obj\Debug\IPT2_Game.exe
+C:\Users\vmadmin\source\repos\IPT2_Game\obj\Debug\IPT2_Game.pdb

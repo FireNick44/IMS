@@ -1,0 +1,3 @@
+﻿  Beispiel02.cpp
+C:\Users\vmadmin\source\repos\B01_Einfuehrung\Uebung02\Beispiel02.cpp(17,10): warning C4477: "printf": Die Formatzeichenfolge "%i" erfordert ein Argument vom Typ "int", das variadic-Argument "1" weist aber den Typ "double" auf.
+  Uebung02.vcxproj -> C:\Users\vmadmin\source\repos\B01_Einfuehrung\Debug\Beispiel02.exe

@@ -1,0 +1,7 @@
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\Aufgabe01\bin\Debug\Aufgabe01.exe.config
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\Aufgabe01\bin\Debug\Aufgabe01.exe
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\Aufgabe01\bin\Debug\Aufgabe01.pdb
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\Aufgabe01\obj\Debug\Aufgabe01.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\Aufgabe01\obj\Debug\Aufgabe01.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\Aufgabe01\obj\Debug\Aufgabe01.exe
+C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\Aufgabe01\obj\Debug\Aufgabe01.pdb

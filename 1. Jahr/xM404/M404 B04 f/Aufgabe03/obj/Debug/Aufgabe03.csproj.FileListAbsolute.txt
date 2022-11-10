@@ -1,0 +1,10 @@
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe03\obj\Debug\Aufgabe03.csprojAssemblyReference.cache
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe03\obj\Debug\Aufgabe03.Kreiszeichnung.resources
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe03\obj\Debug\Aufgabe03.Properties.Resources.resources
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe03\obj\Debug\Aufgabe03.csproj.GenerateResource.cache
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe03\obj\Debug\Aufgabe03.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe03\bin\Debug\Aufgabe03.exe.config
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe03\bin\Debug\Aufgabe03.exe
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe03\bin\Debug\Aufgabe03.pdb
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe03\obj\Debug\Aufgabe03.exe
+C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe03\obj\Debug\Aufgabe03.pdb

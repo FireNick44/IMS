@@ -1,0 +1,7 @@
+C:\Users\vmadmin\source\repos\2. jahr\M226\B03\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\vmadmin\source\repos\2. jahr\M226\B03\MyApp\bin\Debug\MyApp.exe
+C:\Users\vmadmin\source\repos\2. jahr\M226\B03\MyApp\bin\Debug\MyApp.pdb
+C:\Users\vmadmin\source\repos\2. jahr\M226\B03\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+C:\Users\vmadmin\source\repos\2. jahr\M226\B03\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\2. jahr\M226\B03\MyApp\obj\Debug\MyApp.exe
+C:\Users\vmadmin\source\repos\2. jahr\M226\B03\MyApp\obj\Debug\MyApp.pdb

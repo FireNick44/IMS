@@ -1,0 +1,3 @@
+﻿  Aufgabe 5.cpp
+C:\Users\vmadmin\source\repos\2. jahr\M411\B03_Aufgabe05\Aufgabe 5.cpp(26,10): warning C4477: "printf": Die Formatzeichenfolge "%i" erfordert ein Argument vom Typ "int", das variadic-Argument "1" weist aber den Typ "int *" auf.
+  B03_Aufgabe05.vcxproj -> C:\Users\vmadmin\source\repos\2. jahr\M411\B03_Aufgabe03\Debug\B03_Aufgabe05.exe

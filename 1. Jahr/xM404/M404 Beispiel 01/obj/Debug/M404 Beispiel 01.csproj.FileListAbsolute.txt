@@ -1,0 +1,10 @@
+C:\Users\vmadmin\source\repos\M404 Beispiel 01\bin\Debug\M404 Beispiel 01.exe.config
+C:\Users\vmadmin\source\repos\M404 Beispiel 01\bin\Debug\M404 Beispiel 01.exe
+C:\Users\vmadmin\source\repos\M404 Beispiel 01\bin\Debug\M404 Beispiel 01.pdb
+C:\Users\vmadmin\source\repos\M404 Beispiel 01\obj\Debug\M404 Beispiel 01.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\M404 Beispiel 01\obj\Debug\M404_Beispiel_01.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\M404 Beispiel 01\obj\Debug\M404 Beispiel 01.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\M404 Beispiel 01\obj\Debug\M404 Beispiel 01.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\M404 Beispiel 01\obj\Debug\M404 Beispiel 01.exe
+C:\Users\vmadmin\source\repos\M404 Beispiel 01\obj\Debug\M404 Beispiel 01.pdb
+C:\Users\vmadmin\source\repos\M404 Beispiel 01\obj\Debug\M404_Beispiel_01.Form1.resources

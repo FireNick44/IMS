@@ -1,0 +1,13 @@
+C:\Users\vmadmin\source\repos\IPT2_B02.3 Array Algorithmus\Teil3\bin\Debug\netcoreapp3.1\Teil3.exe
+C:\Users\vmadmin\source\repos\IPT2_B02.3 Array Algorithmus\Teil3\bin\Debug\netcoreapp3.1\Teil3.deps.json
+C:\Users\vmadmin\source\repos\IPT2_B02.3 Array Algorithmus\Teil3\bin\Debug\netcoreapp3.1\Teil3.runtimeconfig.json
+C:\Users\vmadmin\source\repos\IPT2_B02.3 Array Algorithmus\Teil3\bin\Debug\netcoreapp3.1\Teil3.runtimeconfig.dev.json
+C:\Users\vmadmin\source\repos\IPT2_B02.3 Array Algorithmus\Teil3\bin\Debug\netcoreapp3.1\Teil3.dll
+C:\Users\vmadmin\source\repos\IPT2_B02.3 Array Algorithmus\Teil3\bin\Debug\netcoreapp3.1\Teil3.pdb
+C:\Users\vmadmin\source\repos\IPT2_B02.3 Array Algorithmus\Teil3\obj\Debug\netcoreapp3.1\Teil3.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\IPT2_B02.3 Array Algorithmus\Teil3\obj\Debug\netcoreapp3.1\Teil3.AssemblyInfoInputs.cache
+C:\Users\vmadmin\source\repos\IPT2_B02.3 Array Algorithmus\Teil3\obj\Debug\netcoreapp3.1\Teil3.AssemblyInfo.cs
+C:\Users\vmadmin\source\repos\IPT2_B02.3 Array Algorithmus\Teil3\obj\Debug\netcoreapp3.1\Teil3.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\IPT2_B02.3 Array Algorithmus\Teil3\obj\Debug\netcoreapp3.1\Teil3.dll
+C:\Users\vmadmin\source\repos\IPT2_B02.3 Array Algorithmus\Teil3\obj\Debug\netcoreapp3.1\Teil3.pdb
+C:\Users\vmadmin\source\repos\IPT2_B02.3 Array Algorithmus\Teil3\obj\Debug\netcoreapp3.1\Teil3.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+﻿  Quelle.cpp
+C:\Users\vmadmin\source\repos\IPT_B02\Aufgabe04\Quelle.cpp(4,1): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+C:\Users\vmadmin\source\repos\IPT_B02\Aufgabe04\Quelle.cpp(12,50): warning C4244: "=": Konvertierung von "double" in "unsigned char", möglicher Datenverlust
+C:\Users\vmadmin\source\repos\IPT_B02\Aufgabe04\Quelle.cpp(13,51): warning C4244: "=": Konvertierung von "double" in "unsigned char", möglicher Datenverlust
+C:\Users\vmadmin\source\repos\IPT_B02\Aufgabe04\Quelle.cpp(14,12): warning C4477: "printf": Die Formatzeichenfolge "%4.2f" erfordert ein Argument vom Typ "double", das variadic-Argument "1" weist aber den Typ "int" auf.
+C:\Users\vmadmin\source\repos\IPT_B02\Aufgabe04\Quelle.cpp(15,12): warning C4477: "printf": Die Formatzeichenfolge "%4.2f" erfordert ein Argument vom Typ "double", das variadic-Argument "1" weist aber den Typ "int" auf.
+  Aufgabe04.vcxproj -> C:\Users\vmadmin\source\repos\IPT_B02\Debug\Aufgabe04.exe

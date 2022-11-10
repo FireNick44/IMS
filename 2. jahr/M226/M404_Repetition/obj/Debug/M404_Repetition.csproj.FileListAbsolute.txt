@@ -1,0 +1,12 @@
+C:\Users\vmadmin\source\repos\2. jahr\M226\M404_Repetition\bin\Debug\M404_Repetition.exe.config
+C:\Users\vmadmin\source\repos\2. jahr\M226\M404_Repetition\bin\Debug\M404_Repetition.exe
+C:\Users\vmadmin\source\repos\2. jahr\M226\M404_Repetition\bin\Debug\M404_Repetition.pdb
+C:\Users\vmadmin\source\repos\2. jahr\M226\M404_Repetition\bin\Debug\Guna.UI2.dll
+C:\Users\vmadmin\source\repos\2. jahr\M226\M404_Repetition\obj\Debug\M404_Repetition.csproj.AssemblyReference.cache
+C:\Users\vmadmin\source\repos\2. jahr\M226\M404_Repetition\obj\Debug\M404_Repetition.Form1.resources
+C:\Users\vmadmin\source\repos\2. jahr\M226\M404_Repetition\obj\Debug\M404_Repetition.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\2. jahr\M226\M404_Repetition\obj\Debug\M404_Repetition.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\2. jahr\M226\M404_Repetition\obj\Debug\M404_Repetition.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\2. jahr\M226\M404_Repetition\obj\Debug\M404_Repetition.csproj.CopyComplete
+C:\Users\vmadmin\source\repos\2. jahr\M226\M404_Repetition\obj\Debug\M404_Repetition.exe
+C:\Users\vmadmin\source\repos\2. jahr\M226\M404_Repetition\obj\Debug\M404_Repetition.pdb

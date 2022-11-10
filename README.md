@@ -1,3 +1,3 @@
-# M101
+# IMS
 
-Programmieren in der IMS im Modul 101
+Programmieren in der IMS
