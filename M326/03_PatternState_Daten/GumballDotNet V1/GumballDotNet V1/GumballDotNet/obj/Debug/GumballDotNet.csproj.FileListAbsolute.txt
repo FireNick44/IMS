@@ -1,0 +1,8 @@
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\M326\03_PatternState_Daten\GumballDotNet V1\GumballDotNet V1\GumballDotNet\bin\Debug\GumballDotNet.exe.config
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\M326\03_PatternState_Daten\GumballDotNet V1\GumballDotNet V1\GumballDotNet\bin\Debug\GumballDotNet.exe
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\M326\03_PatternState_Daten\GumballDotNet V1\GumballDotNet V1\GumballDotNet\bin\Debug\GumballDotNet.pdb
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\M326\03_PatternState_Daten\GumballDotNet V1\GumballDotNet V1\GumballDotNet\obj\Debug\GumballDotNet.csproj.AssemblyReference.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\M326\03_PatternState_Daten\GumballDotNet V1\GumballDotNet V1\GumballDotNet\obj\Debug\GumballDotNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\M326\03_PatternState_Daten\GumballDotNet V1\GumballDotNet V1\GumballDotNet\obj\Debug\GumballDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\M326\03_PatternState_Daten\GumballDotNet V1\GumballDotNet V1\GumballDotNet\obj\Debug\GumballDotNet.exe
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\M326\03_PatternState_Daten\GumballDotNet V1\GumballDotNet V1\GumballDotNet\obj\Debug\GumballDotNet.pdb
