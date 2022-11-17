@@ -30,3 +30,19 @@ C:\Users\yannic\Source\Repos\FireNick44\IMS\M120\WpfApp1\obj\Debug\WpfApp1.g.res
 C:\Users\yannic\Source\Repos\FireNick44\IMS\M120\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
 C:\Users\yannic\Source\Repos\FireNick44\IMS\M120\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
 C:\Users\yannic\Source\Repos\FireNick44\IMS\M120\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\yannic\Documents\Visual Studio Code\IMS-1\3. jahr\M120\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\yannic\Documents\Visual Studio Code\IMS-1\3. jahr\M120\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\yannic\Documents\Visual Studio Code\IMS-1\3. jahr\M120\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\yannic\Documents\Visual Studio Code\IMS-1\3. jahr\M120\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\yannic\Documents\Visual Studio Code\IMS-1\3. jahr\M120\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\yannic\Documents\Visual Studio Code\IMS-1\3. jahr\M120\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\yannic\Documents\Visual Studio Code\IMS-1\3. jahr\M120\WpfApp1\obj\Debug\App.g.cs
+C:\Users\yannic\Documents\Visual Studio Code\IMS-1\3. jahr\M120\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\yannic\Documents\Visual Studio Code\IMS-1\3. jahr\M120\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\yannic\Documents\Visual Studio Code\IMS-1\3. jahr\M120\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\yannic\Documents\Visual Studio Code\IMS-1\3. jahr\M120\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\yannic\Documents\Visual Studio Code\IMS-1\3. jahr\M120\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\yannic\Documents\Visual Studio Code\IMS-1\3. jahr\M120\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\yannic\Documents\Visual Studio Code\IMS-1\3. jahr\M120\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\yannic\Documents\Visual Studio Code\IMS-1\3. jahr\M120\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\yannic\Documents\Visual Studio Code\IMS-1\3. jahr\M120\WpfApp1\obj\Debug\WpfApp1.pdb
