@@ -1,0 +1,46 @@
+.flex-container
+    {
+     flex-direction: column;
+     display: flex;
+     background-color: rgb(248, 233, 233);
+    }
+  
+.flex-container > div
+    {
+     background-color: #df4444;
+     margin: 10px;
+     padding: 20px;
+     font-size: 30px;
+    }
+
+html, body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.B1{
+    
+    width: 1920px;
+    height: 350px;
+}
+
+.navigation-container {
+    display: flex;
+    background-color: black;
+    padding: 0px 20px;
+}                                                   
+
+.navigation-item{
+    color: white;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navigation-item-active{
+    background-color: greenyellow;
+    color: white;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+}<
