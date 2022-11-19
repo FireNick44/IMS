@@ -2,12 +2,6 @@ import { ToDo } from './todo.js';
 
 let todos = [];
 
-// let todos = [
-//   new ToDo('Zugticket kaufen', false),
-//   new ToDo('Wäsche waschen', true),
-//   new ToDo('Hausaufgaben machen', true),
-// ];
-
 function updateToDoListOnScreen() {
   const todoListElement = document.getElementById('todolist');
 
@@ -32,27 +26,9 @@ function updateToDoListOnScreen() {
   localStorage.setItem('todos', JSON.stringify(todos, ["titel", "erledigt"]));
 }
 
-document.addEventListener("change", e => {
-  console.log(e)
-  if (e.input.checked == true) {
-    console.log("checked");
-  }
-})
-
 document.addEventListener('DOMContentLoaded', (event) => {
   checkLocalstorage(); //localCheck -Y
   updateToDoListOnScreen();
-
-
-  const neuesCheckElement = document.querySelector('input[type=checkbox]');
-  neuesCheckElement.addEventListener('change', function (event) {
-      if (neuesCheckElement.checked) {
-          // do something if checked
-          console.log("checked");
-      } else {
-          // do something else otherwise
-      }
-  });
 
   const neuesToDoElement = document.getElementById('neuesToDo');
   neuesToDoElement.addEventListener('keydown', (event) => {
@@ -71,6 +47,25 @@ document.addEventListener('DOMContentLoaded', (event) => {
       updateToDoListOnScreen();
     }
   });
+
+});
+
+document.addEventListener('change', (event) => {
+  let count = 0;
+  let allCheckboxes = document.querySelectorAll("#check");
+  
+  allCheckboxes.forEach((item) => {
+    item.setAttribute("alt", count);
+    count++;
+  });
+
+  //console.log(event.target.alt);
+  //console.log(todos);
+
+  if(todos[event.target.alt].erledigt) todos[event.target.alt].erledigt = false;
+  else todos[event.target.alt].erledigt = true;
+
+  updateToDoListOnScreen();
 });
 
 //Lösche erledigt Button -Y
@@ -85,35 +80,43 @@ function deleteToDoListElement() {
 
 // aufruf von DOMLoaded -Y
 function checkLocalstorage() {
-  checkFirst()
 
-  let tmp = JSON.parse(localStorage.getItem('todos')) ? JSON.parse(localStorage.getItem('todos')) : []
-  for (const tmpToDo of tmp) {
-    const todo = new ToDo(tmpToDo.titel, tmpToDo.erledigt);
-    todos.push(todo);
-  }
+  let itemTodosSet = (localStorage.getItem('todos') !== null);
 
-  JSON.parse(localStorage.getItem('todos'))
-}
-
-//Checkt ob es der erste aufruff ist -Y
-function checkFirst() {
-  const itemSet = (localStorage.getItem('first') !== null);
-
-  if(!itemSet) {
-    localStorage.setItem('first', true);
-
-    todos = [
+  if(!itemTodosSet) {
+    let firstToDos = [
       new ToDo('Zugticket kaufen', false),
       new ToDo('Wäsche waschen', true),
       new ToDo('Hausaufgaben machen', true),
     ];
+
+    for (const tmpToDo of firstToDos) {
+      const todo = new ToDo(tmpToDo.titel, tmpToDo.erledigt);
+      
+      todo.addEventListener('loeschen', (e) => {
+        const index = todos.indexOf(e.target);
+        todos.splice(index, 1);
+        updateToDoListOnScreen();
+      });
+  
+      todos.push(todo);
+    }
+
   }
-}
 
+  let tmp = JSON.parse(localStorage.getItem('todos')) ? JSON.parse(localStorage.getItem('todos')) : []
 
-//checkboxElement.addEventListener('click', checken(this));
+  for (const tmpToDo of tmp) {
+    const todo = new ToDo(tmpToDo.titel, tmpToDo.erledigt);
+    
+    todo.addEventListener('loeschen', (e) => {
+      const index = todos.indexOf(e.target);
+      todos.splice(index, 1);
+      updateToDoListOnScreen();
+    });
 
-function checken() {
+    todos.push(todo);
+  }
 
+  JSON.parse(localStorage.getItem('todos'))
 }
