@@ -1,5 +1,0 @@
-﻿  Quelle.cpp
-C:\Users\vmadmin\source\repos\ÜbungenB02\Zusatz01\Quelle.cpp(5,1): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
-C:\Users\vmadmin\source\repos\ÜbungenB02\Zusatz01\Quelle.cpp(9,16): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
-C:\Users\vmadmin\source\repos\ÜbungenB02\Zusatz01\Quelle.cpp(10,10): warning C4477: "printf": Die Formatzeichenfolge "%g" erfordert ein Argument vom Typ "double", das variadic-Argument "1" weist aber den Typ "int" auf.
-  Zusatz01.vcxproj -> C:\Users\vmadmin\source\repos\ÜbungenB02\Debug\Zusatz01.exe

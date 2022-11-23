@@ -8,3 +8,14 @@ C:\Users\vmadmin\source\repos\M404 B01\Taschenrechner\obj\Debug\Taschenrechner.c
 C:\Users\vmadmin\source\repos\M404 B01\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
 C:\Users\vmadmin\source\repos\M404 B01\Taschenrechner\obj\Debug\Taschenrechner.exe
 C:\Users\vmadmin\source\repos\M404 B01\Taschenrechner\obj\Debug\Taschenrechner.pdb
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\bin\Debug\Taschenrechner.exe.config
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\bin\Debug\Taschenrechner.exe
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\bin\Debug\Taschenrechner.pdb
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\obj\Debug\Taschenrechner.csproj.AssemblyReference.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\obj\Debug\Taschenrechner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\obj\Debug\Taschenrechner.Taschenrechner.resources
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\obj\Debug\Taschenrechner.exe
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\obj\Debug\Taschenrechner.pdb

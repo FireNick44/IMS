@@ -1,4 +1,0 @@
-﻿  Quelle.cpp
-C:\Users\vmadmin\source\repos\403B04\Aufgabe05\Quelle.cpp(6,1): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
-C:\Users\vmadmin\source\repos\403B04\Aufgabe05\Quelle.cpp(12,11): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
-  Aufgabe05.vcxproj -> C:\Users\vmadmin\source\repos\403B04\Debug\Aufgabe05.exe

@@ -1,9 +1,0 @@
-C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe01\bin\Debug\Aufgabe01.exe.config
-C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe01\bin\Debug\Aufgabe01.exe
-C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe01\bin\Debug\Aufgabe01.pdb
-C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe01\obj\Debug\Aufgabe01.csprojAssemblyReference.cache
-C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe01\obj\Debug\Aufgabe01.Properties.Resources.resources
-C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe01\obj\Debug\Aufgabe01.csproj.GenerateResource.cache
-C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe01\obj\Debug\Aufgabe01.csproj.CoreCompileInputs.cache
-C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe01\obj\Debug\Aufgabe01.exe
-C:\Users\vmadmin\Mittwoch\Modul 404\repos\B04\Aufgabe01\obj\Debug\Aufgabe01.pdb

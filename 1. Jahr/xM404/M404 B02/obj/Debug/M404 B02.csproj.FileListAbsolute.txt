@@ -8,3 +8,14 @@ C:\Users\vmadmin\source\repos\M404 B02\bin\Debug\M404 B02.exe
 C:\Users\vmadmin\source\repos\M404 B02\bin\Debug\M404 B02.pdb
 C:\Users\vmadmin\source\repos\M404 B02\obj\Debug\M404 B02.exe
 C:\Users\vmadmin\source\repos\M404 B02\obj\Debug\M404 B02.pdb
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B02\bin\Debug\M404 B02.exe.config
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B02\bin\Debug\M404 B02.exe
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B02\bin\Debug\M404 B02.pdb
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B02\obj\Debug\M404 B02.csproj.AssemblyReference.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B02\obj\Debug\M404 B02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B02\obj\Debug\M404_B02.Beispiel1.resources
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B02\obj\Debug\M404_B02.Properties.Resources.resources
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B02\obj\Debug\M404 B02.csproj.GenerateResource.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B02\obj\Debug\M404 B02.csproj.CoreCompileInputs.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B02\obj\Debug\M404 B02.exe
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B02\obj\Debug\M404 B02.pdb

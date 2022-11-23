@@ -1,7 +1,0 @@
-C:\Users\vmadmin\source\repos\IPT Konsolen Beispiel\bin\Debug\IPT Konsolen Beispiel.exe.config
-C:\Users\vmadmin\source\repos\IPT Konsolen Beispiel\bin\Debug\IPT Konsolen Beispiel.exe
-C:\Users\vmadmin\source\repos\IPT Konsolen Beispiel\bin\Debug\IPT Konsolen Beispiel.pdb
-C:\Users\vmadmin\source\repos\IPT Konsolen Beispiel\obj\Debug\IPT Konsolen Beispiel.csprojAssemblyReference.cache
-C:\Users\vmadmin\source\repos\IPT Konsolen Beispiel\obj\Debug\IPT Konsolen Beispiel.csproj.CoreCompileInputs.cache
-C:\Users\vmadmin\source\repos\IPT Konsolen Beispiel\obj\Debug\IPT Konsolen Beispiel.exe
-C:\Users\vmadmin\source\repos\IPT Konsolen Beispiel\obj\Debug\IPT Konsolen Beispiel.pdb

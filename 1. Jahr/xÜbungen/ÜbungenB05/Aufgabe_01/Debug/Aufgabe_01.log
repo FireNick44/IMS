@@ -1,3 +1,0 @@
-﻿  1.cpp
-MSVCRTD.lib(exe_main.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "_main" in Funktion ""int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)".
-C:\Users\vmadmin\source\repos\ÜbungenB05\Debug\Aufgabe_01.exe : fatal error LNK1120: 1 nicht aufgelöste Externe

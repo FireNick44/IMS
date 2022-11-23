@@ -1,4 +1,0 @@
-C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\obj\Debug\netcoreapp3.1\Aufgabe01.csprojAssemblyReference.cache
-C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\obj\Debug\netcoreapp3.1\Aufgabe01.AssemblyInfoInputs.cache
-C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\obj\Debug\netcoreapp3.1\Aufgabe01.AssemblyInfo.cs
-C:\Users\vmadmin\source\repos\IPT2_B02.2 Array vertiefung\obj\Debug\netcoreapp3.1\Aufgabe01.csproj.CoreCompileInputs.cache
