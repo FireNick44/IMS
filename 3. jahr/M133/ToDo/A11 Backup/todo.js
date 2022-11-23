@@ -38,6 +38,7 @@ export class ToDo extends EventTarget {
     divElement.appendChild(buttonElement);
 
     checkboxElement.setAttribute('type', 'checkbox');
+    checkboxElement.setAttribute("id", "check");
 
     buttonElement.className = 'loeschen';
 
