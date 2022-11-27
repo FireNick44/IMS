@@ -8,3 +8,14 @@ C:\Users\vmadmin\source\repos\M404 B03\Aufgabe\obj\Debug\Aufgabe.csproj.Generate
 C:\Users\vmadmin\source\repos\M404 B03\Aufgabe\obj\Debug\Aufgabe.csproj.CoreCompileInputs.cache
 C:\Users\vmadmin\source\repos\M404 B03\Aufgabe\obj\Debug\Aufgabe.exe
 C:\Users\vmadmin\source\repos\M404 B03\Aufgabe\obj\Debug\Aufgabe.pdb
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B03\Aufgabe\bin\Debug\Aufgabe.exe.config
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B03\Aufgabe\bin\Debug\Aufgabe.exe
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B03\Aufgabe\bin\Debug\Aufgabe.pdb
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B03\Aufgabe\obj\Debug\Aufgabe.csproj.AssemblyReference.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B03\Aufgabe\obj\Debug\Aufgabe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B03\Aufgabe\obj\Debug\Aufgabe.Form1.resources
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B03\Aufgabe\obj\Debug\Aufgabe.Properties.Resources.resources
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B03\Aufgabe\obj\Debug\Aufgabe.csproj.GenerateResource.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B03\Aufgabe\obj\Debug\Aufgabe.csproj.CoreCompileInputs.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B03\Aufgabe\obj\Debug\Aufgabe.exe
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B03\Aufgabe\obj\Debug\Aufgabe.pdb

@@ -28,9 +28,6 @@ namespace M404_B02
       tag d1 = tag.Montag;
       textBox1.Text = (Convert.ToInt32(d1)).ToString();
 
-
-
-
     }
   }
 }

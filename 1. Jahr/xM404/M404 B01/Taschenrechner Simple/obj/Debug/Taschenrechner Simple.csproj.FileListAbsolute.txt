@@ -1,0 +1,11 @@
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\bin\Debug\Aufgabe05 Kombobox.exe.config
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\bin\Debug\Aufgabe05 Kombobox.exe
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\bin\Debug\Aufgabe05 Kombobox.pdb
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\obj\Debug\Taschenrechner Simple.csproj.AssemblyReference.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\obj\Debug\Taschenrechner Simple.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\obj\Debug\Aufgabe05.Form1.resources
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\obj\Debug\Aufgabe05_Kombobox.Properties.Resources.resources
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\obj\Debug\Taschenrechner Simple.csproj.GenerateResource.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\obj\Debug\Taschenrechner Simple.csproj.CoreCompileInputs.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\obj\Debug\Aufgabe05 Kombobox.exe
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Taschenrechner Simple\obj\Debug\Aufgabe05 Kombobox.pdb

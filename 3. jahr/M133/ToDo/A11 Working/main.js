@@ -65,7 +65,7 @@ document.addEventListener('change', (event) => {
   if(todos[event.target.alt].erledigt) todos[event.target.alt].erledigt = false;
   else todos[event.target.alt].erledigt = true;
 
-  updateToDoListOnScreen();
+  //updateToDoListOnScreen();
 });
 
 //Lösche erledigt Button -Y

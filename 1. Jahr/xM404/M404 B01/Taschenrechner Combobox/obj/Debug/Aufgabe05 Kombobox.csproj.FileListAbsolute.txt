@@ -1,0 +1,21 @@
+C:\Users\vmadmin\source\repos\M404 B01\Aufgabe05 Kombobox\obj\Debug\Aufgabe05 Kombobox.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\M404 B01\Aufgabe05 Kombobox\obj\Debug\Aufgabe05_Kombobox.Form1.resources
+C:\Users\vmadmin\source\repos\M404 B01\Aufgabe05 Kombobox\obj\Debug\Aufgabe05_Kombobox.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\M404 B01\Aufgabe05 Kombobox\obj\Debug\Aufgabe05 Kombobox.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\M404 B01\Aufgabe05 Kombobox\obj\Debug\Aufgabe05 Kombobox.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\M404 B01\Aufgabe05 Kombobox\bin\Debug\Aufgabe05 Kombobox.exe.config
+C:\Users\vmadmin\source\repos\M404 B01\Aufgabe05 Kombobox\bin\Debug\Aufgabe05 Kombobox.exe
+C:\Users\vmadmin\source\repos\M404 B01\Aufgabe05 Kombobox\bin\Debug\Aufgabe05 Kombobox.pdb
+C:\Users\vmadmin\source\repos\M404 B01\Aufgabe05 Kombobox\obj\Debug\Aufgabe05 Kombobox.exe
+C:\Users\vmadmin\source\repos\M404 B01\Aufgabe05 Kombobox\obj\Debug\Aufgabe05 Kombobox.pdb
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Aufgabe05 Kombobox\bin\Debug\Aufgabe05 Kombobox.exe.config
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Aufgabe05 Kombobox\bin\Debug\Aufgabe05 Kombobox.exe
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Aufgabe05 Kombobox\bin\Debug\Aufgabe05 Kombobox.pdb
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Aufgabe05 Kombobox\obj\Debug\Aufgabe05 Kombobox.csproj.AssemblyReference.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Aufgabe05 Kombobox\obj\Debug\Aufgabe05 Kombobox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Aufgabe05 Kombobox\obj\Debug\Aufgabe05_Kombobox.Form1.resources
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Aufgabe05 Kombobox\obj\Debug\Aufgabe05_Kombobox.Properties.Resources.resources
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Aufgabe05 Kombobox\obj\Debug\Aufgabe05 Kombobox.csproj.GenerateResource.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Aufgabe05 Kombobox\obj\Debug\Aufgabe05 Kombobox.csproj.CoreCompileInputs.cache
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Aufgabe05 Kombobox\obj\Debug\Aufgabe05 Kombobox.exe
+C:\Users\Yannic\Documents\Visual Studio Code\IMS\1. Jahr\xM404\M404 B01\Aufgabe05 Kombobox\obj\Debug\Aufgabe05 Kombobox.pdb

@@ -1,7 +1,0 @@
-﻿  5.cpp
-C:\Users\vmadmin\source\repos\ÜbungenB08\Aufgabe_05\5.cpp(25,45): error C2660: "UP1": Funktion akzeptiert keine 3 Argumente
-C:\Users\vmadmin\source\repos\ÜbungenB08\Aufgabe_05\5.cpp(5,7): message : Siehe Deklaration von "UP1"
-C:\Users\vmadmin\source\repos\ÜbungenB08\Aufgabe_05\5.cpp(37,59): error C2660: "UP2": Funktion akzeptiert keine 4 Argumente
-C:\Users\vmadmin\source\repos\ÜbungenB08\Aufgabe_05\5.cpp(6,7): message : Siehe Deklaration von "UP2"
-C:\Users\vmadmin\source\repos\ÜbungenB08\Aufgabe_05\5.cpp(46,48): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
-C:\Users\vmadmin\source\repos\ÜbungenB08\Aufgabe_05\5.cpp(56,77): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
