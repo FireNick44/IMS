@@ -1,19 +1,16 @@
-import express from 'express';
-import morgan from 'morgan';
-import { dirname } from 'path';
-import { fileURLToPath } from 'url';
-import { router as movieRouter } from ' . /movie/index.js';
+import { Router } from 'express';
+import {
+    listAction,
+    removeAction,
+    formAction,
+    saveAction,
+} from './controller.js';
 
+const router = Router();
 
-const app = express();
-const PORT = 8080;
+router.get ('/', listAction);
+router.get ('/delete/:id',removeAction);
+router.get ('/form/:id?', formAction);
+router.post('/save', saveAction);
 
-
-app.use(express.static(`${dirname(fileURLToPath(import.meta.url))}/public`));
-app.use (morgan('common', { immediate: true }));
-app.use(express.urlencoded({ extended: false }));
-app.use('/movie', movieRouter);
-app.get('/', (request, response) => response.redirect('/movie'));
-app. listen (PORT, () => {
-   console. log(` Server startet at: http://localhost:${PORT}`);
-});
+export { router };

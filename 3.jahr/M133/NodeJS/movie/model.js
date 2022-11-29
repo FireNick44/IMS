@@ -10,4 +10,36 @@ let data = [
   { id: 5, title: "Avengers: Infinity War", year: "2018" },
 ];
 
+function getNextId() {
+  return Math.max(...data.map((movie) => movie.id)) + 1;
+}
 
+function insert(movie) {
+  movie.id= getNextId();
+  data.push(movie);
+}
+
+function update(movie) {
+  //TODO
+}
+
+export function getAll() {
+  return Promise.resolve(data);
+}
+
+export function get(id) {
+  //TODO
+}
+
+export function remove(id) {
+  //TODO
+}
+
+export function save(movie) {
+  if (movie.id === '') {
+      insert(movie);
+  }else {
+      update(movie);
+  }
+  return Promise.resolve();
+}
