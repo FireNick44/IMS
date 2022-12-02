@@ -1,4 +1,4 @@
-<p align="right"> [ <a href="../register.md"> README </a> ] </p>
+<p align="right"> [ <a href="./README.md"> README </a> ] </p>
 
 # Register
 
