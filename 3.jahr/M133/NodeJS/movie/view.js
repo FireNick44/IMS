@@ -19,12 +19,19 @@ export function render(movies) {
                <th></th>
             </tr>
          </thead>
-         <tbody>${movies.map ( (movie) => ` <tr>
-               <td> ${movie.id }</td>
+         <tbody>
+         ${movies.map(
+            (movie) => 
+            `
+            <tr>
+               <td> ${movie.id}</td>
                <td> ${movie.title}</td>
-               <td><a href="/movie/delete/${ movie.id}">löschen</a></td>
-               <td><a href="/movie/form/${ movie.id  }">bearbeiten</a></td>
-            </tr>`, ) .join ('') } </tbody>
+               <td><a href="/movie/delete/${movie.id}">löschen</a></td>
+               <td><a href="/movie/form/${movie.id}">bearbeiten</a></td>
+            </tr>
+            `,)
+            .join ('') }
+         </tbody>
       </table><a href="/movie/form">neu</a>
    </body>
    
