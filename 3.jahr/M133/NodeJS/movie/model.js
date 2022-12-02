@@ -11,7 +11,8 @@ let data = [
 ];
 
 var idCount = 6; 
-//Wird nur hochgezählt, somit wird getNextId nicht gebraucht
+//ID wird nur hochgezählt, somit wird getNextId nicht gebraucht
+//getNextId() geht nicht wenn man ein Objekt löscht
 //Danke Demian -Yannic ;)
 
 function getNextId() {
