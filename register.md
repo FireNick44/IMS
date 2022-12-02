@@ -3,7 +3,6 @@
 
 ### [1. Jahr](/1.jahr/1.jahr.md)
 
- - Block 01 Einführungen
  - First Programs
  - xIPT (alle IPT-Projek)
  - M404
